@@ -1,0 +1,1 @@
+export const HMS_Base_Url = process.env.NEXT_PUBLIC_HMS_API_URL as string
